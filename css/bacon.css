@@ -1,3 +1,4 @@
+/*******external CSS******/
 body {
   background-color: #2e2e36;
 }
@@ -9,16 +10,36 @@ hr {
   border-width: 10px;
 }
 
-img {
+
+h1 {
+color: #28FFBF;
+}
+
+p{
+color: #BCFFB9;
+}
+
+img{
   height: 200px;
   width: 200px;
 }
 
-
-h1 {
-color: #66BFBF
+/*******classes******/
+.bacon{
+  border-radius: 50%;
+  opacity: 0.5;
+  filter: contrast(200%);
 }
 
-h3 {
-color: #66BFBF
+.tomato{
+  border-radius: 100%;
+  filter: drop-shadow(16px 16px 20px red) invert(75%);
+}
+
+.hidden{
+  color: #2e2e36;
+}
+
+p:hover{
+  background-color: red;
 }
