@@ -4,13 +4,22 @@ div {
 
 body {
   background-color: #2e2e36;
-  margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
+  margin: 0;
 }
 
 h1 {
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin: 0;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
 }
