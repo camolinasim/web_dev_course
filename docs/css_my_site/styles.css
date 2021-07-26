@@ -1,13 +1,5 @@
-div {
-  background-color: #7C83FD;
-}
-
 body {
   background-color: #2e2e36;
-  margin: 0;
-}
-
-h1 {
   margin: 0;
 }
 
@@ -15,26 +7,30 @@ h1 {
   width: 200px;
   height: 200px;
   margin: 0;
+  display: inline-block;
 }
 
 .first {
-  border: solid;
-  border-width: 10px;
-  padding: 20px;
-  background-color: #7C83FD;
+  background-color: #FF3F00;
+  position: relative;
+  left: 204px;
 }
 
 .second {
-  border: solid;
-  border-width: 20px;
-  margin: 0;
-  margin-left: 260px;
-  background-color: #96BAFF;
+  position: relative;
+  right: 205px;
+  background-color: #7C83FD;
 }
 
 .third {
-  border: solid;
-  border-width: 10px;
-  margin-left: 500px;
-  background-color: #7DEDFF;
+  /* display: inline; */
+  /* position: relative; */
+  /* left: 260px;
+  bottom: 480px; */
+  /* margin-left: 500px; */
+  background-color: #8E2657;
+}
+
+.underline {
+  text-decoration: underline;
 }
