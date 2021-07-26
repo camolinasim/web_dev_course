@@ -14,12 +14,27 @@ h1 {
 .square {
   width: 200px;
   height: 200px;
+  margin: 0;
 }
 
-.sea {
+.first {
+  border: solid;
+  border-width: 10px;
+  padding: 20px;
+  background-color: #7C83FD;
+}
+
+.second {
+  border: solid;
+  border-width: 20px;
+  margin: 0;
+  margin-left: 260px;
   background-color: #96BAFF;
 }
 
-.cyan {
+.third {
+  border: solid;
+  border-width: 10px;
+  margin-left: 500px;
   background-color: #7DEDFF;
 }
