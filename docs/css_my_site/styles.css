@@ -7,28 +7,23 @@ body {
   width: 200px;
   height: 200px;
   margin: 0;
-  display: inline-block;
+  position: absolute;
 }
 
 .first {
+  right: 481px;
+  bottom: 337px;
   background-color: #FF3F00;
-  position: relative;
-  left: 204px;
 }
 
 .second {
-  position: relative;
-  right: 205px;
+  right: 681px;
+  bottom: 537px;
   background-color: #7C83FD;
 }
 
 .third {
-  /* display: inline; */
-  /* position: relative; */
-  /* left: 260px;
-  bottom: 480px; */
-  /* margin-left: 500px; */
-  background-color: #8E2657;
+  background-color: yellow;
 }
 
 .underline {
