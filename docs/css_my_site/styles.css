@@ -3,6 +3,11 @@ body {
   text-align: center;
 }
 
+h1 {
+  width: 10%;
+  margin: 0 auto 0 auto;
+}
+
 .square {
   width: 200px;
   height: 200px;
