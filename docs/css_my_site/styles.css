@@ -7,23 +7,36 @@ body {
   width: 200px;
   height: 200px;
   margin: 0;
-  position: absolute;
 }
 
 .first {
-  right: 481px;
-  bottom: 337px;
+  position: absolute;
+  display: inline-block;
+  right: 0px;
+  bottom: auto;
   background-color: #FF3F00;
 }
 
 .second {
+  position: absolute;
+  display: inline-block;
   right: 681px;
   bottom: 537px;
   background-color: #7C83FD;
 }
 
 .third {
+  position: absolute;
+  display: inline-block;
   background-color: yellow;
+}
+
+.gray {
+  position: absolute;
+  background-color: white;
+  width: 400px;
+  height: 400px;
+  left: 500px;
 }
 
 .underline {
