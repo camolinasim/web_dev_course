@@ -1,6 +1,6 @@
 body {
   background-color: #2e2e36;
-  margin: 0;
+  text-align: center;
 }
 
 .square {
@@ -9,25 +9,15 @@ body {
   margin: 0;
 }
 
-.first {
-  position: absolute;
-  display: inline-block;
-  right: 0px;
-  bottom: auto;
-  background-color: #FF3F00;
-}
-
-.second {
-  position: absolute;
-  display: inline-block;
-  right: 681px;
-  bottom: 537px;
+.blue {
   background-color: #7C83FD;
 }
 
-.third {
-  position: absolute;
-  display: inline-block;
+.green {
+  background-color: #BCFFB9;
+}
+
+.yellow {
   background-color: yellow;
 }
 
