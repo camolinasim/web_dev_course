@@ -20,9 +20,9 @@ p {
 h3 {
   font-family: 'Quicksand', sans-serif;
 } */
-.square {
-  width: 200px;
-  height: 200px;
+.picture-dimensions {
+  width: 300px;
+  height: 300px;
   margin: 0;
 }
 
@@ -36,17 +36,15 @@ h3 {
   left: 450px;
 }
 
-.blue {
-  background-color: #7C83FD;
-}
+/* middle */
+.middle-container {}
 
 .green {
   background-color: #BCFFB9;
 }
 
-.yellow {
-  background-color: yellow;
-}
+/* bottom */
+.bottom-container {}
 
 .gray {
   position: absolute;
