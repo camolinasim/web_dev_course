@@ -28,24 +28,25 @@ h3 {
 }
 
 .top-cloud {
-  position: relative;
-  left: 200px;
+  position: absolute;
+  right: 300px;
 }
 
 .bot-cloud {
   position: absolute;
-  left: 450px;
+  left: 485px;
+  /* position: relative;
+  left: 300px; */
 }
 
-/* middle */
+/*
 .middle-container {}
 
+.bottom-container {}
+*/
 .green {
   background-color: #BCFFB9;
 }
-
-/* bottom */
-.bottom-container {}
 
 .gray {
   position: absolute;
@@ -57,4 +58,8 @@ h3 {
 
 .underline {
   text-decoration: underline;
+}
+
+.parent {
+  position: relative;
 }
