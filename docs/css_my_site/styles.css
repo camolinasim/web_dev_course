@@ -1,5 +1,4 @@
 body {
-  background-color: #2e2e36;
   text-align: center;
 }
 
@@ -10,7 +9,7 @@ h1 {
 }
 
 p {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Gowun Batang', serif;
 }
 
 h2 {
@@ -22,8 +21,8 @@ h3 {
 }
 
 .picture-dimensions {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   margin: 0;
 }
 
@@ -44,10 +43,13 @@ h3 {
 
 .bottom-container {}
 */
-.green {
+.blue-first {
   background-color: #288EE0;
 }
 
+/* .blue-second {
+  background-color: #1F6DAD;
+} */
 .gray {
   position: absolute;
   background-color: white;
