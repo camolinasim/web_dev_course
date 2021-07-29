@@ -5,7 +5,8 @@ body {
 h1 {
   margin-top: 0;
   font-family: 'Crimson Text', serif;
-  /* margin: 0 auto; */
+  /* dynamic font size --> 100% = 16px --> We want 90px so regla de 3 */
+  font-size: 562.5%;
 }
 
 p {
