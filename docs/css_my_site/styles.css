@@ -7,7 +7,7 @@ h1 {
   font-family: 'Crimson Text', serif;
   /* dynamic font size --> 100% = 16px --> We want 90px so regla de 3 */
   /* 16px = 100% = 1em */
-  font-size: 5.625em;
+  font-size: 5.625rem;
 }
 
 p {
