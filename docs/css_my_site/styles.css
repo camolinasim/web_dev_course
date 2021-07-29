@@ -93,3 +93,8 @@ p {
 .flip-horizontally {
   transform: scaleX(-1);
 }
+
+.pic-rawly {
+  width: 12.5%;
+  height: 12.5%;
+}
