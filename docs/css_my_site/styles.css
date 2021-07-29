@@ -8,7 +8,7 @@ body {
 
 h1 {
   font-family: 'Crimson Text', serif;
-  margin: 50px auto 0 auto;
+  margin: 100px auto 0 auto;
   color: #66BFBF;
   /* dynamic font size --> 100% = 16px --> We want 90px so regla de 3 */
   /* 16px = 100% = 1em */
@@ -16,6 +16,8 @@ h1 {
 }
 
 h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
   color: #66BFBF;
   font-family: 'Open Sans', sans-serif;
 }
@@ -23,7 +25,6 @@ h2 {
 h3 {
   /* 16px - 1rem
      40px - xrem */
-  font-size: 2.5rem;
   font-family: 'Open Sans', sans-serif;
   color: #11999E;
 }
@@ -81,3 +82,8 @@ p {
 .flip-horizontally {
   transform: scaleX(-1);
 }
+
+/* .subtitle {
+  font-weight: normal;
+  line-height: 2;
+} */
