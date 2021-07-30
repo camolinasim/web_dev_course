@@ -108,10 +108,25 @@ hr {
 
 .button-contact-me {
   background-color: #11999E !important;
-  border-radius: 5px;
-  font-size: 17px;
+  border-radius: 21px;
+  font-size: 21px;
   color: white;
-  font-family: 'Source Sans Pro', sans-serif;
-  padding: 6px 18px;
-  margin: 30px auto;
+  font-family: 'Open Sans', sans-serif;
+  padding: 20px 34px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
 }
