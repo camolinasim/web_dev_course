@@ -130,3 +130,12 @@ a:hover {
 a:active {
   text-decoration: none;
 }
+
+.footer-link {
+  color: #11999E;
+}
+
+.bottom-container {
+  margin: 100px auto;
+  background-color: #66BFBF;
+}
