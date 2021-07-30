@@ -105,3 +105,13 @@ hr {
   border: 10px dotted #EAF6F6;
   border-style: none none dotted;
 }
+
+.button-contact-me {
+  background-color: #11999E !important;
+  border-radius: 5px;
+  font-size: 17px;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 6px 18px;
+  margin: 30px auto;
+}
