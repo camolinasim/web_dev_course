@@ -133,9 +133,21 @@ a:active {
 
 .footer-link {
   color: #11999E;
+  font-family: 'Open Sans', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
 }
 
 .bottom-container {
   margin: 100px auto;
   background-color: #66BFBF;
+  height: 10rem;
+  position: relative;
 }
