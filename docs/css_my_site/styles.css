@@ -102,7 +102,7 @@ p {
 
 hr {
   margin: 50px auto;
-  width: 5%;
+  width: 4%;
   border: 10px dotted #EAF6F6;
   border-style: none none dotted;
 }
@@ -158,6 +158,6 @@ a:active {
 }
 
 .intro {
-  width: 27%;
+  width: 25%;
   margin: auto;
 }
