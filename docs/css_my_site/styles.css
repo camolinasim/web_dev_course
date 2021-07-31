@@ -39,7 +39,7 @@ h3 {
 
 .skill-row-coach {
   width: 50%;
-  margin: 50px auto 50px auto;
+  margin: 200px auto 50px auto;
   text-align: right;
 }
 
@@ -63,6 +63,16 @@ p {
   margin: 0;
   float: right;
   margin-left: 30px;
+}
+
+.coach-text {
+  margin-left: 0;
+  text-align: left
+}
+
+.coach-title {
+  text-align: left;
+  margin-top: 100px;
 }
 
 .top-cloud {
